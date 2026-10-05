@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "project": "THE GRID",
+  "fileCount": 36,
+  "totalBytes": 2764041,
+  "inventorySha256": "6624f48ea0df57d727e8cfe0280dca5f983b69f371b4bc139002e0315236fc1d",
+  "files": [
+    {
+      "path": ".github/workflows/deploy-public.yml",
+      "bytes": 699,
+      "sha256": "db39182f16b0b907d7d9107d7d2049fb943f1e8862c414993b599c8cf66deaa7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 231,
+      "sha256": "734aca7384cba4d1ff95ccb132d526365a0c56d145dd5a25db3b382295928a3a"
+    },
+    {
+      "path": "site/404.html",
+      "bytes": 711,
+      "sha256": "ce8651dfef897302db6d5b7f8d01a26977fed86a4453e1b3deb6c6a94355ef15"
+    },
+    {
+      "path": "site/assets/ScrollTrigger-BrDuEirF.js",
+      "bytes": 43547,
+      "sha256": "873b6d349c436877cd1273ead35533511d547061840e0d7fc3d00f5440bee2c5"
+    },
+    {
+      "path": "site/assets/grid-dive-WDUIYZNR.js",
+      "bytes": 2958,
+      "sha256": "3c12a0647f1b3013162182ab4524254a0fca3d58d014cf7106c1d632fd457e91"
+    },
+    {
+      "path": "site/assets/ibm-plex-mono-latin-400-normal-DMJ8VG8y.woff2",
+      "bytes": 14708,
+      "sha256": "08949f728dc52d528e69b1667d15c89a5686a4ee9a296ff90983985f99c380f7"
+    },
+    {
+      "path": "site/assets/index-D4-8ALNT.js",
+      "bytes": 70426,
+      "sha256": "86e1aee306e610f5e211c6e3b7a2348050782e9e700a8797a2db42afb451be49"
+    },
+    {
+      "path": "site/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
+      "bytes": 22128,
+      "sha256": "5a51946dfffa82972bc98745359c46761515641fda557c25116459a9f83da4a7"
+    },
+    {
+      "path": "site/assets/inter-tight-latin-wght-normal-DX-nOvPD.woff2",
+      "bytes": 44872,
+      "sha256": "77fefe8ca19b9f69b5284832c519e0493127c1f091f0a8936884be7721c4e618"
+    },
+    {
+      "path": "site/assets/lifecycle-tVQQqC1O.js",
+      "bytes": 81304,
+      "sha256": "6eb7f31caedd6212de1508900f8f79498f430057e581ca89981e9026e1e679d9"
+    },
+    {
+      "path": "site/assets/main-SaMulEaa.js",
+      "bytes": 721,
+      "sha256": "2cacab5b1313a0c78806338536371b5ce6910e36b838ae7227beadeb8a3462a0"
+    },
+    {
+      "path": "site/assets/michroma-latin-400-normal-4gS0VCia.woff2",
+      "bytes": 17908,
+      "sha256": "754fdb31c9906e82cf9c0ecb1d0b528073818fc2c418a39932c83a34cca027b6"
+    },
+    {
+      "path": "site/assets/page-7bk3UuDi.js",
+      "bytes": 2785,
+      "sha256": "0e4080f0f38585258a04b94a873ec7e7d1fbc43663b06e05be8115e289cedd23"
+    },
+    {
+      "path": "site/assets/page-warp-BS6jKORo.js",
+      "bytes": 16213,
+      "sha256": "adec0ae6c1804e190473d478740992272b42fbfedfc36f522041fd7eeeb66978"
+    },
+    {
+      "path": "site/assets/page-warp-CJCOf9wv.css",
+      "bytes": 94652,
+      "sha256": "416bf957b9f544f60cae4026eccd6ca62c0f413e1bccb908533bdecb6fc4792e"
+    },
+    {
+      "path": "site/assets/the-grid-lockup-CIV911nc.webp",
+      "bytes": 73344,
+      "sha256": "d4d7f9c13e5f8c42281bd3f5322426e903d1174f4571e6fc28b781d87917f76f"
+    },
+    {
+      "path": "site/assets/the-grid-mark-CdNcczQY.webp",
+      "bytes": 37614,
+      "sha256": "0018ac93639af92d3274c2b131e3e50b482431efa57e7ed4311072c6fb9f6b15"
+    },
+    {
+      "path": "site/assets/the-grid-reveal-60-Fr02FYqq.mp4",
+      "bytes": 2037344,
+      "sha256": "f97da1ed3d7ea738c97ace998b66dbc0b5cadfa0163a4427c017085b7d05084f"
+    },
+    {
+      "path": "site/assets/the-grid-tagline-CY3QpLPj.webp",
+      "bytes": 14380,
+      "sha256": "edaaeb1eae42b6a57240a01866b6096455d61bbb2ae40758d07d4ff5976bb96d"
+    },
+    {
+      "path": "site/assets/the-grid-wordmark-B-sNUXZZ.webp",
+      "bytes": 22580,
+      "sha256": "202ebaafef78c0793b2eb674e1e6c2377a961801c4e402d5c4f9776f80f0f468"
+    },
+    {
+      "path": "site/assets/wave-field-DEksWZKq.js",
+      "bytes": 7167,
+      "sha256": "e07a7cfd7ac3ec11dc444eb76c93bff60c5a27e8c139247271325a77a9b95070"
+    },
+    {
+      "path": "site/capacidades/index.html",
+      "bytes": 12024,
+      "sha256": "a29619a2806346ff98b9e33478c038452f3772096be264995b8f78430a558627"
+    },
+    {
+      "path": "site/concepto.html",
+      "bytes": 1449,
+      "sha256": "fb387ece1edceea6f48baea34285546ae84b6710dd1c5076e7017e2064323bf7"
+    },
+    {
+      "path": "site/contacto/index.html",
+      "bytes": 9623,
+      "sha256": "19891f269a87f3611cbf78017af8f3dd21bceccd3f783ec2b9132a29c21a2520"
+    },
+    {
+      "path": "site/estudio/index.html",
+      "bytes": 10031,
+      "sha256": "cd48377f79896cb34b826ba920dedf2a6e629f00455a20a10c5cc867e29ad1ef"
+    },
+    {
+      "path": "site/index.html",
+      "bytes": 42003,
+      "sha256": "18bde8ea8cce7365d7b658aa51cc6c45491d5519b1c2a86aa583ffdbe702cde3"
+    },
+    {
+      "path": "site/licenses/ibm-plex-mono.txt",
+      "bytes": 5392,
+      "sha256": "03b9b5ee8909a33418aaebfa6a807da48c6edebdde79b5b026258a2463e2919b"
+    },
+    {
+      "path": "site/licenses/instrument-serif.txt",
+      "bytes": 4625,
+      "sha256": "2c156af6bd31c661b0beb16c8651343006c8cfd9284cef77a88a39d31b89b5ac"
+    },
+    {
+      "path": "site/licenses/inter-tight.txt",
+      "bytes": 4582,
+      "sha256": "ca379c9983102db91e0a55c94669912be8a10226c427bb60844f39b6c2840b29"
+    },
+    {
+      "path": "site/licenses/michroma.txt",
+      "bytes": 4393,
+      "sha256": "9d869414cd2df4c69abadbada93d27865c7b0df7d276bb2fe1abfd46288cb093"
+    },
+    {
+      "path": "site/mark.svg",
+      "bytes": 216,
+      "sha256": "0a3ec651d46c6e830d065fe2f29ec670e2c6daa6f33274dbb7d45a4ae2d97088"
+    },
+    {
+      "path": "site/proceso/index.html",
+      "bytes": 8426,
+      "sha256": "028a067bccad530bc1fb4604500a3bd49cd1a996ac2549871e24a80ff35c6213"
+    },
+    {
+      "path": "site/robots.txt",
+      "bytes": 93,
+      "sha256": "c5652ed225f7855b967c3c18e2a6329e085c0272a3eae383942144711d449877"
+    },
+    {
+      "path": "site/share.png",
+      "bytes": 44753,
+      "sha256": "e50e81e94edb82ef046c54cc8ba44b732cc4a38001dd38895d24fc590b10e99f"
+    },
+    {
+      "path": "site/sitemap.xml",
+      "bytes": 581,
+      "sha256": "2b05ed546a3905abe5b70cf3743d1c1c70242f3c88184050c9aebdfc09b95c88"
+    },
+    {
+      "path": "site/soluciones/index.html",
+      "bytes": 9558,
+      "sha256": "4cccb5c451d8ff4749dbd00c05ca14c11f07adcaf09326b09ee8fec5d2fe1577"
+    }
+  ],
+  "target": {
+    "owner": "jihannieto30-oss",
+    "repository": "the-grid-site",
+    "origin": "https://jihannieto30-oss.github.io",
+    "base": "/the-grid-site/",
+    "address": "https://jihannieto30-oss.github.io/the-grid-site/"
+  }
+}
